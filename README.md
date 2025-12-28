@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring Data Scientist with strong expertise in machine learning, NLP, and deep learning, skilled at building predictive models and deploying AI solutions. Experienced in Python, SQL, and Scikit-learn, with a proven record of delivering insights that improve decision-making and efficiency. Adept at translating complex data into actionable strategies.<br>
 
 
